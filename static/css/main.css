@@ -449,7 +449,7 @@ button:nth-child(2) {
   letter-spacing: 3px;
   margin-bottom: 40px;
   color: #7c7c7c;
-  font-family: Candal, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .about .icons {
   margin-top: 40px;
@@ -497,7 +497,7 @@ button:nth-child(2) {
   margin-bottom: 20px;
 }
 .skills .title h1 {
-  font-family: Candal, sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #dddada;
   font-size: 2.4rem;
 }
