@@ -4,8 +4,6 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 
 <h3> 
      
-     
-<div> <img src="https://github.com/tech-jamara/SimpleDjangoPortfolio/blob/main/mode.png?raw=true"  />
 
 
 ## Run these Commads
